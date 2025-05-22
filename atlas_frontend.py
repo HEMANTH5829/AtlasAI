@@ -3,7 +3,7 @@ import requests
 
 # --- CONFIGURATION ---
 API_URL = "https://atlas-ai-api.onrender.com/ask "
-DEFAULT_API_KEY = "atlas-secret-key-123"
+DEFAULT_API_KEY = "AIzaSyBFrEqQBxB_3qbvWXv87PpdlbfBdrNHAmU"
 
 # --- STREAMLIT UI ---
 st.set_page_config(page_title="🧠 ATLAS AI", layout="centered")
